@@ -7,6 +7,15 @@ export the two maps to the repository and then insert them to the readme.md. Ple
 
 export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
 
-![WordArt3pm](img/WordArt3pm.png)
+"Elon" keyword twitter search at 3pm 4/25/22:
+![image](img/WordArt3pm.png)
 
-explanation
+"Elon" keyword twitter search at 4pm 4/25/22 Word Art:
+![image](img/WordArt4pm.png)
+
+"Elon" keyword twitter search at 3pm 4/25/22 Map:
+![image](img/ustweets3pm.png)
+
+"Elon" keyword twitter search at 4pm 4/25/22 Map:
+![image](img/ustweets4pm.png)
+
