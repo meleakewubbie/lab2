@@ -9,10 +9,10 @@ export the two word clouds to the repository and then insert them to the readme.
 
 Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to see where tweet locations were. 
 
-"Elon" keyword twitter search at 3pm 4/25/22 Word Art:
+"Elon" keyword twitter search at 3pm 4/25/22 Word Cloud:
 ![image](img/WordArt3pm.png)
 
-"Elon" keyword twitter search at 4pm 4/25/22 Word Art:
+"Elon" keyword twitter search at 4pm 4/25/22 Word Cloud:
 ![image](img/WordArt4pm.png)
 
 "Elon" keyword twitter search at 3pm 4/25/22 Map:
