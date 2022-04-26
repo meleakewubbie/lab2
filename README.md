@@ -6,3 +6,5 @@ introduce your comparison of two places or two time periods. Why do you want to 
 export the two maps to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different geospatial patterns on the map. (POINT 15)
 
 export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
+
+![WordArt3pm](img/WordArt3pm.png)
