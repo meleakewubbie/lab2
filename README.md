@@ -1,19 +1,14 @@
-# lab2
-hello
-Please write a short narrative to introduce your work, and describe the maps and the word clouds. Please analyze why the maps or word clouds are different from each other. 
-introduce your comparison of two places or two time periods. Why do you want to make this comparison? Make sure this narrative will be stored in a readme.md. (POINT 15)
+Meleake's Lab 2: Geo-tagged tweet collection and visualization
 
-export the two maps to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different geospatial patterns on the map. (POINT 15)
-
-export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
-
-Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to analyze tweet text, location, time. 
+Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to analyze tweet text, location, and time. I did one Elon search at 3pm on 4/25/22 and another one at 4pm on the same day. I chose these two time periods to compare tweets closer to the common work day and tweets further from the common work day. I consider 9am-5pm as the common work day for Americans. I did both analysis on the same region, the lower 48 states in the United States.  
 
 "Elon" keyword twitter search at 3pm 4/25/22 Word Cloud:
 ![image](img/WordArt3pm.png)
-
+ 
 "Elon" keyword twitter search at 4pm 4/25/22 Word Cloud:
 ![image](img/WordArt4pm.png)
+
+Obviously Elon is the most frequent word in both word clouds. Twitter is also a frequent word. For my 3pm word cloud, Sir, was a common word. I have no idea why that word showed up a lot. Most of the words that showed up frequently were positive. Common words were: congrats, best, and great. The word clouds are different because the 3pm map had a higher concentration of words. The 4pm word cloud had a diverse set of words. 
 
 "Elon" keyword twitter search at 3pm 4/25/22 Map:
 ![image](img/ustweets3pm.png)
@@ -21,3 +16,4 @@ Elon Musk recently purchased Twitter. With the big news, I decided to do use a k
 "Elon" keyword twitter search at 4pm 4/25/22 Map:
 ![image](img/ustweets4pm.png)
 
+I noticed that there were more "Elon" tweets in the 4pm map than the 3pm map. That could be because 3pm is closer to the common work day. There are less people at work during 4pm so that can be a cause for an increase in "Elon" tweets. Keep in mind that I ran my crawler for 500 seconds on both datasets.
