@@ -7,7 +7,7 @@ export the two maps to the repository and then insert them to the readme.md. Ple
 
 export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
 
-Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to see where tweet locations were. 
+Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to analyze tweet text, location, time. 
 
 "Elon" keyword twitter search at 3pm 4/25/22 Word Cloud:
 ![image](img/WordArt3pm.png)
