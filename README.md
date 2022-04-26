@@ -8,3 +8,5 @@ export the two maps to the repository and then insert them to the readme.md. Ple
 export the two word clouds to the repository and then insert them to the readme.md. Please compare them and briefly discuss why they represent different context. (POINT 15)
 
 ![WordArt3pm](img/WordArt3pm.png)
+
+explanation
