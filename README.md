@@ -1,4 +1,4 @@
-Meleake's Lab 2: Geo-tagged tweet collection and visualization
+Geo-tagged tweet collection and visualization
 
 Elon Musk recently purchased Twitter. With the big news, I decided to do use a keyword search of "Elon" to analyze tweet text, location, and time. I collected Geo-tagged Twitter data using an API-based crawler and visualized them using QGIS and WordArt.com. I did one Elon search at 3pm on 4/25/22 and another one at 4pm on the same day. I chose these two time periods to compare tweets closer to the common work day and tweets further from the common work day. I consider 9am-5pm as the common work day for Americans. I did both analysis on the same region, the lower 48 states in the United States.  
 
